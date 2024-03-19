@@ -1,0 +1,11 @@
+/.idea/
+target/
+/*/*.iml
+/*/*/*.iml
+/*/*/src/main/resources/rebel.xml
+/**.iml
+/rebel.xml
+/*.log
+/*/*/.idea/
+/*/src/main/resources/*.xml
+/*/*/target/
